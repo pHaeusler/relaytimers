@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/RelayControls.qml</file>
+        <file>qml/ExitDialog.qml</file>
+        <file>qml/AboutDialog.qml</file>
+    </qresource>
+</RCC>
