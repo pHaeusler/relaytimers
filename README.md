@@ -2,7 +2,6 @@
 Qt QML App for schedualling periodic relays
 
 This App was designed for periodic injection of CO2 into wine tanks.
-[Blog post about App](http://penguin.noip.me/?p=48)
 
 
 This App compiles and runs on a Raspberry Pi 2
